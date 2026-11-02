@@ -142,13 +142,6 @@ The pasted analysis uses Python and the following libraries:
 - imbalanced-learn
 - XGBoost
 
-The notebook loads the source workbook from:
-
-```text
-../../data/raw/INX_Future_Inc_Employee_Performance_CDS_Project2_Data_V1.8.xls
-```
-
-To reproduce the analysis, install compatible versions of the listed libraries and an Excel reader that supports `.xls` workbooks, such as `xlrd`. Run the notebook from its expected project location or update the workbook path to match your local folder structure. The pasted material does not specify the notebook filename or provide a complete repository structure.
 
 ## Limitations
 
