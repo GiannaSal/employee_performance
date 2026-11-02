@@ -133,7 +133,7 @@ A shift in model predictions alone does not establish that an intervention worke
 
 ## Tools and Reproducibility
 
-The pasted analysis uses Python and the following libraries:
+Python and the following libraries:
 
 - pandas, NumPy, SciPy
 - Matplotlib and Seaborn
