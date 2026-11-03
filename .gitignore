@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+venv/
+env/
+.streamlit/
+# Keep your dataset and models or track with DVC/Git LFS if very large
